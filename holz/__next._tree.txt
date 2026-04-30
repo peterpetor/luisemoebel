@@ -1,5 +1,0 @@
-:HL["/luisemoebel/_next/static/chunks/45af2c0a6242ee99.css","style"]
-:HL["/luisemoebel/_next/static/chunks/d9e773027b404800.css","style"]
-:HL["/luisemoebel/_next/static/media/01e4147cff8141ee-s.p.7787e134.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/luisemoebel/_next/static/media/e8f2fbee2754df70-s.p.9b7a96b4.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"buildId":"uA2iQrM7-aj-UEDlCKqPB","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"holz","paramType":null,"paramKey":"holz","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
